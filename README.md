@@ -1,27 +1,50 @@
 # AI Evaluation Portfolio — Tiffany M. Graves
 
 ## Overview
-AI Data Annotation and Evaluation Specialist with experience across multimodal QA, LLM evaluation, transcription/captioning QA, and federal-grade visual interpretation workflows. This portfolio demonstrates evaluation methodology, rubric application, and failure-mode analysis using synthetic and de-identified examples.
+AI Data Annotation and Evaluation Specialist with experience in
+human-in-the-loop AI evaluation, multimodal quality assurance,
+transcription and captioning review, and federal-grade visual
+interpretation workflows.
+
+This portfolio demonstrates evaluation methodology, rubric-based
+judgment, and failure-mode analysis using synthetic, anonymized
+examples suitable for public review.
 
 ## Evaluation Domains
 - LLM response evaluation (helpfulness, correctness, tone, safety)
 - Human-to-Human (H2H) comparison and preference ranking
-- Multimodal QA (image/video/UI)
+- Multimodal QA (image, video, UI annotations)
 - Transcription and captioning quality review
 - Bias, hallucination, and instruction-following checks
 
-## Tools (non-exhaustive)
-Power BI, Tableau, KoboToolbox, ODK/XLSForm, ArcGIS Pro, ERDAS Imagine, Subtitle Edit, Aegisub, OOONA Toolkit, Rev Editor, Amara
+## Evaluation Approach
+Evaluations are conducted using clearly defined criteria, severity
+levels, and written justification. Emphasis is placed on:
+- instruction adherence
+- user safety and risk awareness
+- factual grounding and hallucination detection
+- consistency and audit readiness
+
+## Tools & Modalities (non-exhaustive)
+Text, image, video, UI, and conversational data evaluated using
+web-based annotation platforms and professional QA tools, including
+Subtitle Edit, Aegisub, OOONA Toolkit, Rev Editor, Power BI, Tableau,
+KoboToolbox, ODK/XLSForm, ArcGIS Pro, and ERDAS Imagine.
 
 ## Compliance & Ethics
-All examples are synthetic, anonymized, or self-generated. No NDA-protected prompts, platform guidelines, client data, or internal tooling screenshots are included.
+All examples in this repository are synthetic, self-generated, or
+de-identified. No NDA-protected prompts, platform-specific guidelines,
+client data, or proprietary tooling screenshots are included.
 
 ## Case Studies
-- [LLM Response Evaluation](./case-studies/llm-response-evaluation/README.md)
-- [H2H Comparison](./case-studies/h2h-comparison/README.md)
-- [Transcription QA](./case-studies/transcription-qa/README.md)
-- [Multimodal Visual QA](./case-studies/multimodal-visual-qa/README.md)
+- LLM Response Evaluation  
+- H2H Comparison  
+- Transcription & Captioning QA  
+- Multimodal Visual QA  
+
+Each case study focuses on evaluation reasoning and justification,
+not content generation.
 
 ## Contact
-- LinkedIn: linkedin.com/in/tiffanymgraves
-- Email: tmgraves04@gmail.com
+LinkedIn: linkedin.com/in/tiffanymgraves  
+Email: tmgraves04@gmail.com
